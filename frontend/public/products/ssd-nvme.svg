@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg8" x1="0" y1="0" x2="400" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#cffafe"/>
+    </linearGradient>
+    <linearGradient id="ssd8" x1="120" y1="60" x2="280" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="24" fill="url(#bg8)"/>
+  <rect x="122" y="54" width="156" height="192" rx="22" fill="url(#ssd8)"/>
+  <rect x="136" y="70" width="128" height="160" rx="14" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+  <path d="M156 105 H244" stroke="#06b6d4" stroke-width="4" stroke-linecap="round"/>
+  <text x="200" y="148" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="28" font-weight="800">2 TB</text>
+  <text x="200" y="174" text-anchor="middle" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700">NVMe USB 3.2</text>
+  <rect x="184" y="246" width="32" height="12" rx="4" fill="#94a3b8"/>
+  <circle cx="200" cy="204" r="5" fill="#10b981"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg7" x1="0" y1="0" x2="400" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f1f5f9"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="24" fill="url(#bg7)"/>
+  <path d="M52 150 C52 100, 108 100, 108 134" stroke="#334155" stroke-width="10" stroke-linecap="round"/>
+  <rect x="40" y="148" width="24" height="32" rx="6" fill="#4f46e5"/>
+  <rect x="84" y="118" width="268" height="74" rx="14" fill="#1e293b"/>
+  <rect x="94" y="128" width="248" height="54" rx="8" fill="#334155"/>
+  <!-- Ports -->
+  <rect x="110" y="144" width="32" height="18" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="154" y="144" width="32" height="18" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="198" y="144" width="28" height="18" rx="4" fill="#0f172a" stroke="#a5b4fc" stroke-width="2"/>
+  <rect x="238" y="146" width="20" height="14" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="2"/>
+  <rect x="268" y="146" width="20" height="14" rx="6" fill="#0f172a" stroke="#34d399" stroke-width="2"/>
+  <rect x="298" y="142" width="30" height="22" rx="3" fill="#0f172a" stroke="#fbbf24" stroke-width="2"/>
+  <circle cx="102" cy="136" r="3.5" fill="#10b981"/>
+</svg>

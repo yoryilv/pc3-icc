@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="bg10" x1="0" y1="0" x2="400" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="24" fill="url(#bg10)"/>
+  <rect x="166" y="40" width="68" height="24" rx="10" fill="#1e293b"/>
+  <rect x="190" y="64" width="20" height="14" fill="#475569"/>
+  <path d="M148 76 H252 L242 174 H158 Z" fill="#334155"/>
+  <path d="M158 88 H242 L235 162 H165 Z" fill="#475569" stroke="#64748b" stroke-width="2"/>
+  <rect x="142" y="176" width="116" height="22" rx="10" fill="#0f172a"/>
+  <!-- Armrests -->
+  <path d="M136 138 H154 V182 H136" stroke="#1e293b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M264 138 H246 V182 H264" stroke="#1e293b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Base -->
+  <rect x="192" y="198" width="16" height="36" fill="#64748b"/>
+  <path d="M200 232 L144 252 M200 232 L256 252 M200 232 V256" stroke="#334155" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="144" cy="256" r="7" fill="#0f172a"/>
+  <circle cx="200" cy="260" r="7" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="7" fill="#0f172a"/>
+</svg>
